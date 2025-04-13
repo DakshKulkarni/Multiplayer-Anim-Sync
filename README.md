@@ -48,7 +48,7 @@ This project is a basic VR multiplayer animation viewer built using Unity 2022.3
 - The UI contains:
 
   -  A **dropdown** to select animation: `Idle`, `Walk`, `Run`, `Jump`   ![Screenshot 2025-04-13 032317](https://github.com/user-attachments/assets/f410160d-5c42-4890-b968-ea88b2dd4319)
-  - 🎚 A **slider** to control playback progress
+  -  A **slider** to control playback progress
   -  A **panel** showing:
     - Real-time **joint angles** (Left Elbow, Right Knee)
     - A **posture summary** (e.g., "Left Arm: Raised")
