@@ -82,6 +82,6 @@ This project is a basic VR multiplayer animation viewer built using Unity 2022.3
 
 > This was technically my first proper multiplayer VR project using Photon I had done something earlier with Meta's building blocks but this was the real deal. I faced **tons of setup issues**, sync bugs, UI glitches, input problems... but honestly, that made it exciting.
 
-> I now feel confident building Photon multiplayer project from scratch. Even though the UI is basic and some features are janky, I'm proud of what I built — and this ended up being one of my favorite assignments so far.
+> I now feel confident building Photon multiplayer project from scratch. Even though the UI is basic and some features are janky, this ended up being one of my favorite assignments so far.
 
 Thanks for checking it out!!
